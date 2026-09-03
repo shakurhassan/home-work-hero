@@ -2,9 +2,6 @@
 
 Things noticed in passing. Not implemented, not detoured onto.
 
-- `CLAUDE.md` contains the literal text `echo "@AGENTS.md" > CLAUDE.md` —
-  it looks like the command was written into the file instead of run. It
-  probably wants to be just `@AGENTS.md`.
 - `AGENTS.md` still has its placeholder title: `# AGENTS.md — «project name»`.
 - Twelve domain error messages cannot be reached through the UI (HTML
   validation and hidden panels stop them). Either surface them or decide

@@ -1,1 +1,1 @@
-echo "@AGENTS.md" > CLAUDE.md
+@AGENTS.md
